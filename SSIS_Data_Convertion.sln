@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSIS_Data_Convertion", "SSIS_Data_Convertion\SSIS_Data_Convertion.dtproj", "{53AFAE82-DFFF-4F5E-9B81-3DCB4BD4A369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53AFAE82-DFFF-4F5E-9B81-3DCB4BD4A369}.Development|Default.ActiveCfg = Development
+		{53AFAE82-DFFF-4F5E-9B81-3DCB4BD4A369}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

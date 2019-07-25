@@ -1,0 +1,6 @@
+Customer_ID, Customer_Name, Amount, Product_Rating
+1001, Ramsay, 1000, 5
+1002, Kumar, 3456, 3
+1003, Rose, 7893, 6
+1004, Jack, 2378, 8
+1005, Sansa, 6534, 7
